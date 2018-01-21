@@ -66,10 +66,6 @@ long long rotateFromSecond(long long n)
 }
 
 
-
-
-
-
 int main()
 {
 
